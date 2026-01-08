@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import cowsay from 'cowsay';
 
 const name = process.env.NAME;
